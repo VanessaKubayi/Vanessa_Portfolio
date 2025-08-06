@@ -1,4 +1,4 @@
-## **Vanessa Kubayi | Portfolio**  
+**Vanessa Kubayi | Portfolio**  
 Welcome to my project portfolio! This repository showcases some of my web and digital projects.
 
 ---
@@ -16,5 +16,5 @@ An interactive and colorful website for a kids' computer learning program using 
 ---
 
 📬 **Let's Connect**  
-- [LinkedIn Profile](https://www.linkedin.com/in/vanessa-risuna-kubayi-2b3b73190/)  
-- Email: your-email@example.com
+[LinkedIn Profile](https://www.linkedin.com/in/vanessa-risuna-kubayi-2b3b73190/)  
+Email: your-email@example.com
