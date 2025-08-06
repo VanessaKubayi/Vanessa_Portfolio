@@ -1,6 +1,5 @@
 ## **Vanessa Kubayi | Portfolio**
 ---
-
 Welcome to my project portfolio! This repository showcases some of my web and digital projects.
 
 ---
