@@ -10,6 +10,12 @@ A vibrant and responsive site for a fictional zoo. Highlights include animal exh
 
 ---
 
+**🧒🏽 CompuKids Website**  
+An interactive and colorful website for a kids' computer learning program using basic HTML/CSS.  
+🔗 [View Project on GitHub](https://github.com/VanessaKubayi/CompuKids-Website)
+
+---
+
 📬 **Let's Connect**  
 [LinkedIn Profile](https://www.linkedin.com/in/vanessa-risuna-kubayi-2b3b73190/)  
 Email: your-email@example.com
