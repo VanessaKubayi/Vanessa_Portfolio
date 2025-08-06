@@ -23,4 +23,4 @@ An interactive and colorful website for a kids' computer learning program using 
 ## 📬 Let's Connect
 
 - [LinkedIn Profile](https://www.linkedin.com/in/vanessa-risuna-kubayi-2b3b73190/)
-- Email: your-email@example.com
+- Email: Kubayivanessa97@gmail.com
