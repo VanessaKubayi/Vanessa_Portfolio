@@ -1,26 +1,26 @@
-👩🏽‍💻 **Vanessa Kubayi | Portfolio**
+**Vanessa Kubayi | Portfolio**
 
-Welcome to my project portfolio! This repository serves as a hub for showcasing my web and digital projects.
-
----
-
-🌍 **Pine City Zoo Website**
-
-A vibrant and responsive site for a fictional zoo. Highlights include animal exhibits, ticketing, and visitor info.
-
-🔗 [View Project on GitHub](https://github.com/VanessaKubayi/Pine-City-Zoo)
+Welcome to my project portfolio! This repository shows some of my web projects.
 
 ---
 
-🧒🏽 **CompuKids Website**
+**Pine City Zoo Website**
 
-An interactive and colorful website for a kids' computer learning program using basic HTML/CSS.
+A vibrant and responsive site for a fictional zoo.
 
-🔗 [View Project on GitHub](https://github.com/VanessaKubayi/CompuKids-Website)
+🔗 [View Project](https://github.com/VanessaKubayi/Pine-City-Zoo)
 
 ---
 
-📬 **Let's Connect**
+**CompuKids Website**
+
+An interactive website for a kids' computer learning program.
+
+🔗 [View Project](https://github.com/VanessaKubayi/CompuKids-Website)
+
+---
+
+**Let's Connect**
 
 - [LinkedIn Profile](https://www.linkedin.com/in/vanessa-risuna-kubayi-2b3b73190/)
 - Email: your-email@example.com
